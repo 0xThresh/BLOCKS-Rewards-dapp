@@ -1,2 +1,1 @@
-# NFT ERC721 Collection
-
+dapp files
